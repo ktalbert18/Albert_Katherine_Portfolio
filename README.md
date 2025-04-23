@@ -20,7 +20,7 @@ BFA, Studio Arts/Communication, Loyola University Maryland
 
 #### Art Mart Inventory Manager
  - This spreadsheet keeps track of expenses, inventory, purchasing versus spending price, loans, and other business needs for an imaginary side hustle. Graphs and data analytics are included.
- - /images/artmart.png
+ ![Project Image](/images/artmart.png)
  - I created this project to keep track of expenses and inventory for a side hustle to keep track of my business’ money and change my spending as needed. I used Microsoft Excel to complete this project. I had trouble with figuring out the proper equations for calculating interest equations for my loan table, but relied on my knowledge of Excel from our practice assignments and previous iterations of this assignment to complete this project. I’m happy with how it turned out, and I don’t think I’d change anything. 
 
 ***
