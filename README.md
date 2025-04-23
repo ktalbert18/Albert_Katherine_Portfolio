@@ -1,4 +1,5 @@
-![Project Image](banner.jpg)
+![Project Image](images/banner.jpg)
+
 # Katherine Albert
 Contact Info: 443-517-7265 or katherine.albert016@gmail.com
 ### About Me 
